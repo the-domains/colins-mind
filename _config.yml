@@ -1,14 +1,14 @@
-layout_spectrum: 0.7132161862682551
-typography_spectrum: 0.2322450540959835
+layout_spectrum: 0.06671183533035219
+typography_spectrum: 0.9797937779221684
 color:
-  brandStrength: 0.4612340603489429
-  lightness: 0.9942285099532455
-  saturation: 0.8579398202709854
-  rhythmicContrast: 0.6687535084784031
+  brandStrength: 0.8982407939620316
+  lightness: 0.45774210267700255
+  saturation: 0.17589111486449838
+  rhythmicContrast: 0.38769480446353555
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: Colin's Mind
